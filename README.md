@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omobayode-osinubi-7a564a189/)](https://www.linkedin.com/in/omobayode-osinubi-7a564a189/) [![Twitter Badge](https://img.shields.io/badge/-@omobayode6-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/omobayode6)](https://twitter.com/omobayode6)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omobayode-osinubi-7a564a189/)](https://www.linkedin.com/in/omobayode-osinubi-7a564a189/){:target="\_blank"} [![Twitter Badge](https://img.shields.io/badge/-@omobayode6-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/omobayode6)](https://twitter.com/omobayode6){:target="\_blank"}
 
 I'm a Software Engineer, who have a very strong visual perception of design, I ❤ simplicity, and white spaces.
 
