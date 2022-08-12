@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omobayode-osinubi-7a564a189/)](https://www.linkedin.com/in/omobayode-osinubi-7a564a189/) [![Twitter Badge](https://img.shields.io/badge/-@omobayode6-3B7EBF?target=_blank&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/omobayode6)](https://twitter.com/omobayode6)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omobayode-osinubi-7a564a189/)](https://www.linkedin.com/in/omobayode-osinubi-7a564a189/) [![Twitter Badge](https://img.shields.io/badge/-@omobayode6-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/omobayode6)](https://twitter.com/omobayode6)
 
 I'm a Software Engineer, who have a very strong visual perception of design, I ❤ simplicity, and white spaces.
 
@@ -9,10 +9,10 @@ I am a developer who takes delight in web accessibility and users' experience st
 - 😊 Pronouns: He/him
 - 📫 How to reach me: DM [Omobayode Festus](https://www.linkedin.com/in/omobayode-osinubi-7a564a189/).
 - 🌱 I’m currently studying Cloud Engineering at AltSchool Africa School of Software Engineering Class of 2022.
-- 💙 Fun fact: I 🧡 traveling and reading documentations
+- 💙 Fun fact: I 🧡 traveling and reading documentations.
 - 📫 You can view my resume and contact me by emailing omobayode93@gmail.com.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer,cloud engineer or DevOps Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, Cloud Engineer or DevOps Engineer (Intern or Junior level).
 
 ---
 
