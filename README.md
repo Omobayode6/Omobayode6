@@ -11,8 +11,8 @@ I am a developer who takes delight in web accessibility and users' experience st
 - 🌱 I’m currently studying Cloud Engineering at AltSchool Africa School of Software Engineering Class of 2022.
 - 💙 Fun fact: I 🧡 traveling and reading documentations.
 - 📫 You can view my resume and contact me by emailing omobayode93@gmail.com.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, Cloud Engineer or DevOps Engineer (Intern or Junior level).
+- 😊 I’m looking for help with open source projects, hackathons, contract, and fulltime job opportunities.
+- 💼 Job interests: Frontend Software Engineer, Cloud Engineer - DevOps Engineer.
 
 ---
 
