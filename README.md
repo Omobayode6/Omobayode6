@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omobayode - Senior Frontend Engineer (React • Next.js • TypeScript)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omobayode-osinubi-7a564a189/)](https://www.linkedin.com/in/omobayode-osinubi-7a564a189/) [![Twitter Badge](https://img.shields.io/badge/-@omobayode6-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/omobayode6)](https://twitter.com/omobayode6)
+[![Website Badge](https://img.shields.io/badge/-portfolio-3B7EBF?style=for-the-badge&logo=website&logoColor=white&link=https://omobayodefestus.vercel.app/)]([https://twitter.com/omobayode6](https://omobayodefestus.vercel.app/)) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omobayode-osinubi-7a564a189/)](https://www.linkedin.com/in/omobayode-osinubi-7a564a189/) [![Twitter Badge](https://img.shields.io/badge/-@omobayode6-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/omobayode6)](https://twitter.com/omobayode6)
 
 
 I’m a **Senior Frontend Engineer based in Lagos, Nigeria**, with 5+ years of experience building **high-performance, scalable, and user-centric applications** across fintech, e-commerce, escrow systems, data platforms, identity verification, real-estate tokenization, and ed-tech.
@@ -63,7 +63,7 @@ I specialize in **modern React/Next.js frontend engineering**, performance optim
 ## 📫 Let's Connect
 
 - **LinkedIn:** ([Omobayode Festus Osinubi](https://www.linkedin.com/in/omobayode-osinubi-7a564a189/))  
-- **Portfolio:** ([Omobayode](https://omobayode6.github.io/omobayode-osinubi/))  
+- **Portfolio:** ([Omobayode Festus](https://omobayodefestus.vercel.app/))  
 - **Email:** (omobayode93@gmail.com)
 
 Thanks for visiting! ⭐ Feel free to explore my projects.
